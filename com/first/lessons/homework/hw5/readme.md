@@ -1,0 +1,1 @@
+force robots to fight
