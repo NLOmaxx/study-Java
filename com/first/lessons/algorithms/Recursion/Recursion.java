@@ -68,7 +68,14 @@ public class Recursion {
         They are(recursion methods) slow and cost much memory,
         but its really easy to write them
 
-
+        We can say that recursion methods are using stack.
+        What does stack means? Stack its some kind of list, where we
+        can put new items and remove old items.
+        When we call recusion method for the first time we create first step
+        of stack, after that put second-third e.t.c and then, last step will wait
+        for final result, previous step will wait for result of last e.t.c(if you
+        don't understand - put your eyes(in the asshole) closer and higher in the
+        text.)
         */
         
     }
