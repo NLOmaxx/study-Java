@@ -1,3 +1,6 @@
 # study-Java
 studing java, git
-//добавил эту надпись
+
+This is the repositoty of my process
+
+of studying Java
